@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="Abstracte illustratie van twee handen die zacht contact maken">
+<circle cx="180" cy="180" r="170" fill="#F1EBE1"/>
+<circle cx="180" cy="180" r="168" fill="none" stroke="#E3DCCE" stroke-width="2"/>
+<!-- left hand -->
+<g fill="#F2C9A4" stroke="#C1694F" stroke-width="2.5" stroke-linejoin="round">
+  <path d="M96 232c-14-16-18-40-8-58 4-8 14-9 18-1 4-14 18-16 22-3 3-13 17-13 20 0 3-11 16-10 19 1 9-3 16 6 13 15-6 20-18 38-38 46-16 6-33 4-46 0z"/>
+</g>
+<!-- right hand -->
+<g fill="#FCEFE4" stroke="#3F6259" stroke-width="2.5" stroke-linejoin="round">
+  <path d="M264 228c14-16 18-40 8-58-4-8-14-9-18-1-4-14-18-16-22-3-3-13-17-13-20 0-3-11-16-10-19 1-9-3-16 6-13 15 6 20 18 38 38 46 16 6 33 4 46 0z"/>
+</g>
+<circle cx="180" cy="180" r="6" fill="#C1694F"/>
+</svg>
