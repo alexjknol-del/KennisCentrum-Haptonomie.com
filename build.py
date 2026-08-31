@@ -87,6 +87,11 @@ ARTICLES = [
      "Leven met chronische klachten: de rol van voelen en bewustwording",
      "Hoe lichaamsgerichte aandacht kan helpen bij het omgaan met langdurige pijn- of spanningsklachten.",
      "/nieuws/leven-met-chronische-klachten/"),
+    ("nieuws/structureel-schoonmaakonderhoud-zorg-onderwijs/index.html",
+     "nieuws/structureel-schoonmaakonderhoud-zorg-onderwijs.html",
+     "Waarom structureel schoonmaakonderhoud onmisbaar is in zorg en onderwijs",
+     "Waarom schoonmaak in zorg en onderwijs geen incidentele activiteit is, maar een structureel proces dat samenhangt met gezondheid en veiligheid.",
+     "/nieuws/structureel-schoonmaakonderhoud-zorg-onderwijs/"),
 ]
 
 
