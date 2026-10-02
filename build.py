@@ -61,6 +61,11 @@ PAGES = [
 ]
 
 ARTICLES = [
+    ("nieuws/eigen-praktijk-haptotherapeut-aansprakelijkheid/index.html",
+     "nieuws/eigen-praktijk-haptotherapeut-aansprakelijkheid.html",
+     'Een eigen praktijk als haptotherapeut: beroeps- en bedrijfsaansprakelijkheid',
+     'Wat dekt een bedrijfsaansprakelijkheidsverzekering voor een haptotherapeut, wanneer komt de beroepsaansprakelijkheid erbij en wat vragen anderen?',
+     "/nieuws/eigen-praktijk-haptotherapeut-aansprakelijkheid/"),
     ("nieuws/casemanager-verzuim-mens-en-proces/index.html",
      "nieuws/casemanager-verzuim-mens-en-proces.html",
      "Werken als casemanager verzuim en duurzame inzetbaarheid",
