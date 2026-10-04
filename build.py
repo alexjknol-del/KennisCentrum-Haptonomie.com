@@ -61,6 +61,11 @@ PAGES = [
 ]
 
 ARTICLES = [
+    ("nieuws/pijn-bij-vrijen-vaginisme-lichaamsgerichte-begeleiding/index.html",
+     "nieuws/pijn-bij-vrijen-vaginisme-lichaamsgerichte-begeleiding.html",
+     'Pijn bij het vrijen: wat lichaamsgerichte begeleiding kan doen bij vaginisme',
+     'Vaginisme ontstaat in de wisselwerking tussen spanning, angst en lichaam. Over hoe haptotherapie en bekkenfysiotherapie elkaar daarbij aanvullen.',
+     "/nieuws/pijn-bij-vrijen-vaginisme-lichaamsgerichte-begeleiding/"),
     ("nieuws/eigen-praktijk-haptotherapeut-aansprakelijkheid/index.html",
      "nieuws/eigen-praktijk-haptotherapeut-aansprakelijkheid.html",
      'Een eigen praktijk als haptotherapeut: beroeps- en bedrijfsaansprakelijkheid',
