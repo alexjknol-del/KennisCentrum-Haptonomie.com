@@ -61,6 +61,11 @@ PAGES = [
 ]
 
 ARTICLES = [
+    ("nieuws/bewuster-eten-boodschappenlijst/index.html",
+     "nieuws/bewuster-eten-boodschappenlijst.html",
+     'Bewuster eten begint bij je boodschappenlijst',
+     'Ontdek hoe een gezonde boodschappenlijst, aandacht voor lichaamssignalen en inzicht in emotie-eten bijdragen aan een ontspannen eetpatroon.',
+     "/nieuws/bewuster-eten-boodschappenlijst/"),
     ("nieuws/pijn-bij-vrijen-vaginisme-lichaamsgerichte-begeleiding/index.html",
      "nieuws/pijn-bij-vrijen-vaginisme-lichaamsgerichte-begeleiding.html",
      'Pijn bij het vrijen: wat lichaamsgerichte begeleiding kan doen bij vaginisme',
