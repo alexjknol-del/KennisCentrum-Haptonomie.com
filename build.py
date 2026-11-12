@@ -61,6 +61,16 @@ PAGES = [
 ]
 
 ARTICLES = [
+    ("nieuws/relatietherapie-na-ontrouw/index.html",
+     "nieuws/relatietherapie-na-ontrouw.html",
+     'Relatietherapie na vreemdgaan helpt vertrouwen herstellen?',
+     'Vertrouwen herstellen na ontrouw? ✓ Ontdek de invloed op gevoelens en lichamelijke verbondenheid ✓ Lees hoe veiligheid opnieuw kan groeien.',
+     "/nieuws/relatietherapie-na-ontrouw/"),
+    ("nieuws/lichaam-en-mentale-gezondheid/index.html",
+     "nieuws/lichaam-en-mentale-gezondheid.html",
+     'Mentale gezondheid en lichamelijke klachten herkennen?',
+     '✓ Ontdek hoe stress en emoties je lichaam beïnvloeden ✓ Leer signalen herkennen en lees hoe online psychologische begeleiding kan helpen',
+     "/nieuws/lichaam-en-mentale-gezondheid/"),
     ("nieuws/bewuster-eten-boodschappenlijst/index.html",
      "nieuws/bewuster-eten-boodschappenlijst.html",
      'Bewuster eten begint bij je boodschappenlijst',
